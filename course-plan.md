@@ -96,14 +96,17 @@ Este curso de aproximadamente 43 minutos introduce a estudiantes de secundaria a
 
 **Todas las actividades prácticas**:
 
-| Lección | Actividad | Editor en línea |
+| Lección | Actividad | Enlaces importantes |
 |---------|-----------|-----------------|
+| 1 | Introducción al desarrollo web | [Introducción HTML y CSS](https://www.skillnest.com/blog/intruoduccion-a-html-y-css/) |
 | 2 | Primera página HTML | [JSFiddle](https://jsfiddle.net) |
 | 3 | Listas, imágenes y enlaces | [JSFiddle](https://jsfiddle.net) |
 | 4 | Estilos, colores y diseño | [JSFiddle](https://jsfiddle.net) |
 | 5 | Página de perfil (proyecto final) | [JSFiddle](https://jsfiddle.net) |
+| 6 | Errores comunes y próximos pasos | [Documentación oficial de referencia](https://developer.mozilla.org/es/) |
 
 **Recursos de consulta**:
+- [Introducción HTML y CSS](https://www.skillnest.com/blog/intruoduccion-a-html-y-css/) - introducción HTML y CSS
 - [MDN Web Docs en Español](https://developer.mozilla.org/es/) — documentación oficial de referencia
 - [W3C Validator](https://validator.w3.org) — para verificar que tu HTML es correcto
 - [freeCodeCamp en Español](https://www.freecodecamp.org/espanol/) — para seguir aprendiendo
