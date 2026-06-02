@@ -134,3 +134,19 @@ Selecciona "Validate by Direct Input", pega tu código y te indicará exactament
 
 
 ---
+
+
+## Cierre y próximos pasos (3:30 – 4:00)
+
+
+Felicitaciones por completar este curso. Ya sabes estructurar contenido con HTML y darle estilo con CSS. Eso es la base de cualquier sitio web que visitas.
+
+
+Si quieres seguir aprendiendo, estos recursos son gratuitos y están en español:
+
+
+- **MDN Web Docs**: [https://developer.mozilla.org/es/](https://developer.mozilla.org/es/)
+- **freeCodeCamp en Español**: [https://www.freecodecamp.org/espanol/](https://www.freecodecamp.org/espanol/)
+
+
+¡Mucho éxito en tu camino como desarrollador web!
