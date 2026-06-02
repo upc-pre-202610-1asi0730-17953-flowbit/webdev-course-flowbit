@@ -99,3 +99,23 @@ tarjeta { background-color: white; }
 
 
 ---
+
+
+## Error 5: Etiquetas anidadas en orden incorrecto (2:35 – 3:05)
+
+
+Las etiquetas deben cerrarse en el orden inverso al que se abrieron. La regla es sencilla: la última etiqueta en abrirse es la primera en cerrarse.
+
+
+```html
+<!-- Incorrecto -->
+<h1><p>Texto</h1></p>
+
+
+<!-- Correcto -->
+<h1>Texto</h1>
+<p>Texto</p>
+```
+
+
+---
