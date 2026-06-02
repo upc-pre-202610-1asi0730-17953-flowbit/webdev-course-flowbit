@@ -55,3 +55,28 @@ El atributo `alt` no es opcional. Describe la imagen para personas que usan lect
 
 
 ---
+
+
+## Error 3: Olvidar el punto y coma en CSS (1:25 – 2:00)
+
+
+En CSS, cada línea de estilo termina con punto y coma. Si lo omites, el navegador puede ignorar esa propiedad o las que siguen.
+
+
+```css
+/* Incorrecto */
+h1 {
+  color: red
+  font-size: 32px
+}
+
+
+/* Correcto */
+h1 {
+  color: red;
+  font-size: 32px;
+}
+```
+
+
+---
