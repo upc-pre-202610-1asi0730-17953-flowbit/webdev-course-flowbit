@@ -36,3 +36,22 @@ Cuando olvidas cerrar una etiqueta, el navegador puede mostrar el contenido de f
 
 
 ---
+
+
+## Error 2: Imagen sin atributo alt (0:55 – 1:25)
+
+
+El atributo `alt` no es opcional. Describe la imagen para personas que usan lectores de pantalla o cuando la imagen no carga.
+
+
+```html
+<!-- Incorrecto -->
+<img src="foto.jpg">
+
+
+<!-- Correcto -->
+<img src="foto.jpg" alt="Descripción de la imagen">
+```
+
+
+---
