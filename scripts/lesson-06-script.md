@@ -14,3 +14,25 @@ En esta última lección vamos a ver los cinco errores más frecuentes al escrib
 
 
 ---
+
+
+## Error 1: Olvidar cerrar una etiqueta (0:20 – 0:55)
+
+
+Este es el error más común. Cada etiqueta que abres debe cerrarse con la barra diagonal.
+
+
+```html
+<!-- Incorrecto -->
+<h1>Mi título
+
+
+<!-- Correcto -->
+<h1>Mi título</h1>
+```
+
+
+Cuando olvidas cerrar una etiqueta, el navegador puede mostrar el contenido de formas inesperadas: texto que desaparece, secciones que se superponen, o estilos que se aplican a elementos que no debían.
+
+
+---
