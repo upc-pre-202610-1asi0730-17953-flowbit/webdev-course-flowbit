@@ -119,3 +119,18 @@ Las etiquetas deben cerrarse en el orden inverso al que se abrieron. La regla es
 
 
 ---
+
+
+## Cómo validar tu código (3:05 – 3:30)
+
+
+Si quieres verificar que tu HTML no tiene errores, puedes usar el validador oficial del W3C:
+
+
+👉 [https://validator.w3.org](https://validator.w3.org)
+
+
+Selecciona "Validate by Direct Input", pega tu código y te indicará exactamente dónde están los errores.
+
+
+---
