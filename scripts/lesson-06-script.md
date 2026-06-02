@@ -80,3 +80,22 @@ h1 {
 
 
 ---
+
+
+## Error 4: Clase CSS sin el punto (2:00 – 2:35)
+
+
+Cuando defines una clase en CSS, el nombre siempre lleva un punto al inicio. Sin ese punto, el navegador no sabe que es una clase y el estilo no se aplica.
+
+
+```css
+/* Incorrecto — el navegador lo ignora */
+tarjeta { background-color: white; }
+
+
+/* Correcto */
+.tarjeta { background-color: white; }
+```
+
+
+---
