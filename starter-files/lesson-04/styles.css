@@ -1,0 +1,51 @@
+/* ==========================================
+   LECCIÓN 4 — Introducción a CSS
+   Completa cada paso siguiendo las instrucciones
+   ========================================== */
+
+
+
+
+/* PASO 1: Cambia el color de fondo de la página */
+body {
+  background-color: /* escribe un color, por ejemplo: lightblue o #f0f4f8 */;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+
+
+
+/* PASO 2: Cambia el color y tamaño del título */
+h1 {
+  color: /* escribe un color */;
+  font-size: /* prueba con 36px o 42px */;
+}
+
+
+
+
+/* PASO 3: Centra el texto del título */
+h1 {
+  text-align: /* pista: "center" en inglés */;
+}
+
+
+
+
+/* PASO 4: Dale estilo a los párrafos */
+p {
+  font-size: 18px;
+  color: /* elige un color que se lea bien sobre el fondo */;
+  margin: 16px 0;
+}
+
+
+
+
+/* PASO 5: Estiliza el párrafo con clase "destacado" */
+.destacado {
+  background-color: /* elige un color de fondo diferente */;
+  border-left: /* prueba con: 4px solid blue */;
+  padding: /* prueba con 12px */;
+}
