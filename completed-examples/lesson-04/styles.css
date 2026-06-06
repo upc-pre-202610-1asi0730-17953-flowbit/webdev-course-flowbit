@@ -1,0 +1,28 @@
+body {
+  background-color: #e8f4f8;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+
+h1 {
+  color: #2c7bb6;
+  font-size: 42px;
+  text-align: center;
+}
+
+
+p {
+  font-size: 18px;
+  color: #333;
+  margin: 16px 0;
+  line-height: 1.6;
+}
+
+
+.destacado {
+  background-color: #fff8dc;
+  border-left: 4px solid #f0c040;
+  padding: 12px 16px;
+  border-radius: 4px;
+}
