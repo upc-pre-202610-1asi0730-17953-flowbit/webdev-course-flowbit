@@ -81,7 +81,7 @@ Este curso de aproximadamente 43 minutos introduce a estudiantes de secundaria a
 ### Lección 6: Errores comunes y próximos pasos (4 minutos)
 
 - **Descripción**: Repaso de los errores más frecuentes al aprender HTML y CSS, cómo identificarlos y cómo evitarlos. También se presentan recursos para continuar aprendiendo de forma autónoma.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link6)
+- **Enlace**: [Ver la lección](https://youtu.be/mJtQoeFqNZA)
 - **Conceptos clave**:
   - Errores típicos: olvidar cerrar etiquetas, usar mayúsculas en nombres de archivos, confundir `margin` con `padding`
   - Validar el código con [W3C Validator](https://validator.w3.org)
