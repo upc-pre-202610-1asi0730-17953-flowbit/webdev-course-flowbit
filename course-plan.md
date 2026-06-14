@@ -18,7 +18,7 @@ Este curso de aproximadamente 43 minutos introduce a estudiantes de secundaria a
 ### Lección 1: Introducción al desarrollo web (5 minutos)
 
 - **Descripción**: Aprende qué es un sitio web, cómo funciona internet y por qué HTML y CSS son los dos pilares de cualquier página web. Se presentan analogías visuales para facilitar la comprensión.
-- **Enlace**: [Ver la lección](https://youtu.be/P4TL9UgNCTg)
+- **Enlace**: [Ver la lección](https://youtu.be/8_ZhfVK7oeE)
 - **Conceptos clave**:
   - Un sitio web = Contenido (HTML) + Estilo (CSS)
   - HTML es la estructura, CSS es el diseño visual
