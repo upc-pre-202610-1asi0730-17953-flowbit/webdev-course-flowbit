@@ -7,71 +7,152 @@
 ---
 
 
-## Introducción (0:00 – 0:40)
+## Introducción
 
 
-Bienvenidos a este curso de fundamentos de desarrollo web. En las próximas lecciones aprenderás a crear tu propia página web desde cero, sin instalar nada en tu computadora.
+Bienvenidos a Fundamentos de Desarrollo Web: Nivel 1, Preparando el Jardín Digital.
 
+Hoy aprenderemos cómo funcionan las páginas web utilizando una analogía inspirada en Plantas vs. Zombies.
 
-Solo necesitas un navegador web, como el que usas todos los días para ver videos o buscar información.
+Así como en el juego debemos preparar nuestro jardín para defendernos de una invasión, en el desarrollo web necesitamos preparar nuestro entorno para construir páginas funcionales y atractivas.
 
-
----
-
-
-## ¿Qué es un sitio web? (0:40 – 2:00)
-
-
-Cuando abres una página web, lo que ves es el resultado de dos lenguajes trabajando juntos:
-
-
-- **HTML** se encarga del contenido: los textos, las imágenes, los botones.
-- **CSS** se encarga del diseño visual: los colores, los tamaños, la disposición de los elementos.
-
-
-Una buena forma de entenderlo es con esta analogía:
-
-
-> HTML es el esqueleto de la página — define qué hay y en qué orden.  
-> CSS es la ropa — define cómo se ve cada parte.
+Comencemos la partida.
 
 
 ---
 
 
-## ¿Cómo llega una página web a tu pantalla? (2:00 – 3:30)
+## Tu Única Herramienta
 
+Antes de empezar, tengo una buena noticia, para crear nuestras primeras páginas web no necesitamos instalar programas complicados ni herramientas especiales.
 
-Cuando escribes una dirección en tu navegador, ocurre lo siguiente:
+Nuestro navegador web será suficiente, el mismo navegador que usamos para ver videos, revisar redes sociales o buscar información será nuestra primera herramienta de trabajo.
 
-
-1. Tu navegador le pide la página a un servidor (una computadora conectada a internet).
-2. El servidor responde con archivos HTML y CSS.
-3. Tu navegador los interpreta y muestra la página en pantalla.
-
-
-Todo esto ocurre en menos de un segundo.
-
+Es como comenzar una partida con un jardín vacío pero listo para plantar.
 
 ---
 
 
-## Actividad (3:30 – 4:30)
+## Las dos semillas principales
 
 
-Ahora te invito a hacer algo sencillo. Abre tu sitio web favorito, haz clic derecho en cualquier parte de la página y selecciona "Ver código fuente de la página", o presiona `Ctrl + U`.
+Todo jardín necesita semillas.
 
+En el desarrollo web existen dos semillas fundamentales: HTML y CSS, cada página web que visitamos es el resultado de estos dos lenguajes trabajando juntos.
 
-Verás una gran cantidad de texto que puede parecer confuso ahora, pero al final de este curso podrás entender gran parte de lo que ves ahí.
+Podríamos decir que HTML y CSS son como dos plantas especiales que colaboran para defender el jardín digital del aburrimiento y darle vida a cualquier sitio web.
 
+Veamos qué hace cada una.
 
 ---
 
 
-## Cierre (4:30 – 5:00)
+## Semilla 1 - HTML, El Esqueleto
 
 
-En la siguiente lección escribirás tu primera página web con HTML. No te preocupes si nunca has escrito código antes: lo haremos paso a paso y es más sencillo de lo que parece.
+La primera semilla es HTML.
+
+HTML se encarga de definir qué existe dentro de la página y en qué orden aparece, los títulos, los párrafos, las imágenes, los botones y los enlaces son responsabilidad de HTML.
+
+Imaginen un zombie sin ropa ni accesorios, lo único que queda es su esqueleto.
+
+Eso mismo representa HTML: la estructura básica de la página.
+
+Sin HTML no existiría nada que mostrar.
 
 
-¡Nos vemos en la lección 2!
+---
+
+## Semilla 2 - CSS, La Ropa
+
+La segunda semilla es CSS.
+
+CSS se encarga de toda la apariencia visual, controla colores, tamaños, posiciones, márgenes y estilos.
+
+Si HTML es el esqueleto, CSS es la ropa y los accesorios, es la diferencia entre un zombie común y un zombie con sombrero, gafas o traje.
+
+La estructura sigue siendo la misma, pero la apariencia cambia completamente.
+
+Por eso CSS le da personalidad y estilo a la página web.
+
+---
+
+## El Almanaque del código
+
+Podemos resumirlo de esta manera:
+
+HTML responde a la pregunta: ¿Qué hay en la página?
+
+CSS responde a la pregunta: ¿Cómo se ve la página?
+
+HTML construye la estructura.
+
+CSS la decora.
+
+Ambos trabajan juntos para crear la experiencia que vemos en pantalla.
+
+---
+
+## Paso 1 - La petición
+
+
+Ahora veamos qué ocurre cuando visitamos una página web.
+
+Todo comienza cuando escribimos una dirección en el navegador. En ese momento, nuestro navegador envía una petición a un servidor. El servidor es una computadora conectada a Internet que almacena los archivos de la página.
+
+Es como pedir refuerzos para nuestro jardín.
+
+---
+
+## Paso 2 - El Envío
+
+Cuando el servidor recibe la petición, responde enviando los archivos HTML y CSS.
+
+El navegador recibe esos archivos y comienza a interpretarlos. Primero, construye la estructura usando HTML, luego aplica los estilos utilizando CSS.
+
+Todo este proceso ocurre en menos de un segundo. Por eso las páginas aparecen tan rápido en nuestra pantalla.
+
+---
+
+## El ecosistema digital completo
+
+Si observamos todo el proceso, veremos un ciclo completo.
+
+El navegador envía una petición, el servidor responde, HTML y CSS viajan hasta nuestro equipo, y finalmente se convierten en la página web que estamos viendo.
+
+Este ciclo ocurre millones de veces cada día en Internet.
+
+---
+
+## Misión Interactiva
+
+Ahora les propongo una misión.
+
+Entren a su sitio web favorito. Luego hagan clic derecho y seleccionen "Ver código fuente de la página", o presionen Ctrl + U, y aparecerá una gran cantidad de código, tal vez parezca extraño al principio, pero ese código es el ADN del jardín digital que tienen frente a ustedes, y muy pronto podrán comprenderlo.
+
+---
+
+## Editor online: JSFiddle
+
+Antes de comenzar nuestra aventura, necesitamos conocer la herramienta que utilizaremos durante el curso: JSFiddle. 
+
+JSFiddle es como nuestro jardín de entrenamiento. En lugar de instalar programas o configurar entornos complejos, podemos escribir código directamente desde el navegador.
+
+La plataforma está dividida en diferentes zonas. Una para HTML, donde construiremos la estructura de nuestra página; otra para CSS, donde agregaremos colores y estilos; y una tercera para JavaScript, que nos permitirá agregar interactividad más adelante.
+
+Lo mejor es que cada vez que ejecutemos nuestro código podremos ver inmediatamente el resultado, como si observáramos crecer nuestras plantas en tiempo real.
+
+---
+
+## Oleada Completada
+
+¡Excelente trabajo!
+
+Hoy descubrimos que HTML y CSS son las dos semillas fundamentales del desarrollo web.
+
+Aprendimos que HTML construye la estructura, CSS aporta el diseño y que ambos viajan desde un servidor hasta nuestro navegador para formar las páginas que usamos todos los días. Ya hemos preparado nuestro jardín digital y estamos listos para la siguiente oleada.
+
+En la próxima lección plantaremos nuestra primera página web utilizando HTML.
+
+¡Nos vemos en el siguiente nivel del desarrollo web!
+
