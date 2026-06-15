@@ -55,7 +55,7 @@ Este curso de aproximadamente 43 minutos introduce a estudiantes de secundaria a
 ### Lección 4: CSS: estilos, colores y diseño (12 minutos)
 
 - **Descripción**: Dale vida visual a tu página HTML. Aprende a usar selectores CSS para cambiar colores, fuentes, tamaños, márgenes y bordes. Al final de esta lección, tu página ya lucirá como un sitio web real.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
+- **Enlace**: [Ver la lección](https://youtu.be/F06_bphiLOk)
 - **Conceptos clave**:
   - Cómo vincular CSS con HTML usando la etiqueta `<style>`
   - Selectores: por etiqueta (`h1`), por clase (`.titulo`), por id (`#nombre`)
