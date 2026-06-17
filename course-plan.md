@@ -18,7 +18,7 @@ Este curso de aproximadamente 43 minutos introduce a estudiantes de secundaria a
 ### Lección 1: Introducción al desarrollo web (5 minutos)
 
 - **Descripción**: Aprende qué es un sitio web, cómo funciona internet y por qué HTML y CSS son los dos pilares de cualquier página web. Se presentan analogías visuales para facilitar la comprensión.
-- **Enlace**: [Ver la lección](https://youtu.be/P4TL9UgNCTg)
+- **Enlace**: [Ver la lección](https://youtu.be/8_ZhfVK7oeE)
 - **Conceptos clave**:
   - Un sitio web = Contenido (HTML) + Estilo (CSS)
   - HTML es la estructura, CSS es el diseño visual
@@ -55,7 +55,7 @@ Este curso de aproximadamente 43 minutos introduce a estudiantes de secundaria a
 ### Lección 4: CSS: estilos, colores y diseño (12 minutos)
 
 - **Descripción**: Dale vida visual a tu página HTML. Aprende a usar selectores CSS para cambiar colores, fuentes, tamaños, márgenes y bordes. Al final de esta lección, tu página ya lucirá como un sitio web real.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
+- **Enlace**: [Ver la lección](https://youtu.be/F06_bphiLOk)
 - **Conceptos clave**:
   - Cómo vincular CSS con HTML usando la etiqueta `<style>`
   - Selectores: por etiqueta (`h1`), por clase (`.titulo`), por id (`#nombre`)
