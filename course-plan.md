@@ -131,4 +131,4 @@ NRC 17953
 - Huaman Oscco, Aldo Jesus (u20231h067)
 - Ramos Fuentes Rivera, Adriana Nicole (u202018427)
 
-**Fecha de entrega**: [Fecha]
+**Fecha de entrega**: 18/06/2026
