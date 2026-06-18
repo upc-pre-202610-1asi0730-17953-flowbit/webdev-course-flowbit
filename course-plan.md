@@ -30,7 +30,7 @@ Este curso de aproximadamente 43 minutos introduce a estudiantes de secundaria a
 ### Lección 2: Tu primera página HTML (6 minutos)
 
 - **Descripción**: Escribe tu primera página web desde cero. Se explican las etiquetas fundamentales de HTML y cómo se estructura un documento correctamente.
-- **Enlace**: [Ver la lección](https://youtu.be/6efzm47MFY8)
+- **Enlace**: [Ver la lección](https://youtu.be/HnZWtNM4g_A)
 - **Conceptos clave**:
   - Estructura básica: `<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`
   - Etiquetas de texto: `<h1>`, `<h2>`, `<p>`
