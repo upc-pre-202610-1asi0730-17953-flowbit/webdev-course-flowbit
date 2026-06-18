@@ -69,7 +69,7 @@ Este curso de aproximadamente 43 minutos introduce a estudiantes de secundaria a
 ### Lección 5: Proyecto final: tu página de perfil (10 minutos)
 
 - **Descripción**: Combina todo lo aprendido para construir tu propia página de perfil personal. Incluirá tu nombre, una foto, una descripción, tus intereses y los estilos que prefieras.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
+- **Enlace**: [Ver la lección](https://youtu.be/MfFOKQzGQdk)
 - **Conceptos clave**:
   - Organizar el contenido en secciones con `<div>`
   - Aplicar estilos consistentes a toda la página
