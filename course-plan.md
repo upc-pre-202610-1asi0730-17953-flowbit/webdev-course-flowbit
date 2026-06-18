@@ -86,7 +86,6 @@ Este curso de aproximadamente 43 minutos introduce a estudiantes de secundaria a
   - Errores típicos: olvidar cerrar etiquetas, usar mayúsculas en nombres de archivos, confundir `margin` con `padding`
   - Validar el código con [W3C Validator](https://validator.w3.org)
   - Recursos recomendados: [MDN Web Docs](https://developer.mozilla.org/es/), [freeCodeCamp en Español](https://www.freecodecamp.org/espanol/)
-- **Actividad final**: [Envía tu página de perfil terminada](https://forms.gle/your-form)
 
 ---
 
