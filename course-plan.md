@@ -2,9 +2,9 @@
 
 ## Resumen del Curso
 
-Este curso de aproximadamente 43 minutos introduce a estudiantes de secundaria a la creación de sitios web sencillos con HTML y CSS. **¡No requiere descargas ni instalaciones!** Solo necesitas abrir tu navegador web.
+Este curso de aproximadamente 40 minutos introduce a estudiantes de secundaria a la creación de sitios web sencillos con HTML y CSS. **¡No requiere descargas ni instalaciones!** Solo necesitas abrir tu navegador web.
 
-**Duración total**: ~43 minutos  
+**Duración total**: ~40 minutos  
 **Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación  
 **Prerrequisitos**: Ninguno  
 **Herramientas necesarias**: Solo tu navegador web (Chrome, Firefox, Safari o Edge)  
@@ -35,11 +35,11 @@ Este curso de aproximadamente 43 minutos introduce a estudiantes de secundaria a
   - Estructura básica: `<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`
   - Etiquetas de texto: `<h1>`, `<h2>`, `<p>`
   - Toda etiqueta que se abre debe cerrarse
-- **Práctica**: [Abrir ejercicio en JSFiddle](https://jsfiddle.net) — ¡No necesitas registrarte!
+- **Práctica**: [Abrir JSFiddle](https://jsfiddle.net) — ¡No necesitas registrarte!
 
 ---
 
-### Lección 3: Elementos HTML: listas, imágenes y enlaces (6 minutos)
+### Lección 3: Elementos HTML: listas, imágenes y enlaces (4 minutos)
 
 - **Descripción**: Agrega más contenido a tu página: listas ordenadas y desordenadas, imágenes desde internet y enlaces que llevan a otros sitios.
 - **Enlace**: [Ver la lección](https://youtu.be/bWo5zzApKcg)
@@ -48,7 +48,7 @@ Este curso de aproximadamente 43 minutos introduce a estudiantes de secundaria a
   - Imágenes: `<img src="..." alt="...">`
   - Enlaces: `<a href="...">texto</a>`
   - El atributo `alt` en imágenes es importante para la accesibilidad
-- **Práctica**: [Abrir ejercicio en JSFiddle](https://jsfiddle.net) — ¡Empieza al instante!
+- **Práctica**: [Abrir JSFiddle](https://jsfiddle.net) — ¡Empieza al instante!
 
 ---
 
@@ -62,11 +62,11 @@ Este curso de aproximadamente 43 minutos introduce a estudiantes de secundaria a
   - Propiedades básicas: `color`, `background-color`, `font-size`, `font-family`
   - Propiedades de espacio: `margin`, `padding`, `border`
   - Cómo centrar contenido con `text-align: center`
-- **Práctica**: [Abrir ejercicio en JSFiddle](https://jsfiddle.net) — ¡No es necesario registrarse!
+- **Práctica**: [Abrir JSFiddle](https://jsfiddle.net) — ¡No es necesario registrarse!
 
 ---
 
-### Lección 5: Proyecto final: tu página de perfil (10 minutos)
+### Lección 5: Proyecto final: tu página de perfil (9 minutos)
 
 - **Descripción**: Combina todo lo aprendido para construir tu propia página de perfil personal. Incluirá tu nombre, una foto, una descripción, tus intereses y los estilos que prefieras.
 - **Enlace**: [Ver la lección](https://youtu.be/MfFOKQzGQdk)
@@ -74,7 +74,7 @@ Este curso de aproximadamente 43 minutos introduce a estudiantes de secundaria a
   - Organizar el contenido en secciones con `<div>`
   - Aplicar estilos consistentes a toda la página
   - Depurar errores comunes: etiquetas sin cerrar, propiedades CSS mal escritas
-- **Proyecto Final**: [Crear tu perfil en JSFiddle](https://jsfiddle.net) — ¡Guarda y comparte tu resultado!
+- **Proyecto Final**: [Abrir JSFiddle](https://jsfiddle.net) — ¡Guarda y comparte tu resultado!
 
 ---
 
