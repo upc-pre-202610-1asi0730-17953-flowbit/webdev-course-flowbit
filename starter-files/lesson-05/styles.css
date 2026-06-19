@@ -1,0 +1,82 @@
+/* ==========================================
+   LECCIÓN 5 — Proyecto Final: Tu página de perfil
+   Completa cada paso siguiendo las instrucciones
+   ========================================== */
+
+
+
+
+/* Estilos generales — no necesitas cambiar esto */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f4f8;
+  margin: 0;
+  padding: 30px;
+}
+
+
+
+
+/* PASO 1: Dale estilo a la tarjeta principal */
+.tarjeta {
+  background-color: /* elige un color de fondo, por ejemplo: white o #ffffff */;
+  border-radius: /* prueba con 16px */;
+  padding: /* prueba con 36px */;
+  max-width: 480px;
+  margin: 0 auto;
+}
+
+
+
+
+/* PASO 2: Estiliza tu nombre */
+.nombre {
+  font-size: /* elige un tamaño grande, por ejemplo: 28px */;
+  color: /* elige tu color favorito */;
+  text-align: center;
+  margin: 0 0 8px 0;
+}
+
+
+
+
+/* PASO 3: Haz que la foto sea circular */
+.foto {
+  width: 120px;
+  height: 120px;
+  border-radius: /* pista: 50% hace que sea un círculo */;
+  display: block;
+  margin: 0 auto 20px auto;
+}
+
+
+
+
+/* PASO 4: Agrega un borde a la tarjeta */
+.tarjeta {
+  border: /* prueba con: 2px solid #dce3ea */;
+}
+
+
+
+
+/* Estilo de la descripción — puedes modificarlo */
+.descripcion {
+  font-size: 15px;
+  color: #666;
+  text-align: center;
+  margin: 0 0 24px 0;
+}
+
+
+
+
+/* Estilo del enlace — puedes modificarlo */
+.enlace {
+  display: block;
+  text-align: center;
+  margin-top: 24px;
+  color: #2c7bb6;
+  font-weight: bold;
+  text-decoration: none;
+}
