@@ -42,7 +42,7 @@ Este curso de aproximadamente 43 minutos introduce a estudiantes de secundaria a
 ### Lección 3: Elementos HTML: listas, imágenes y enlaces (6 minutos)
 
 - **Descripción**: Agrega más contenido a tu página: listas ordenadas y desordenadas, imágenes desde internet y enlaces que llevan a otros sitios.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
+- **Enlace**: [Ver la lección](https://youtu.be/bWo5zzApKcg)
 - **Conceptos clave**:
   - Listas: `<ul>`, `<ol>`, `<li>`
   - Imágenes: `<img src="..." alt="...">`
